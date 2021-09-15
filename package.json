@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "echo test passed"
+    "test": "echo jianping shu test passed"
   },
   "dependencies": {
     "next": "11.1.2",
