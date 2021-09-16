@@ -5,10 +5,10 @@ resources:
 - service.yaml
 - route.yaml
 commonLabels:
-  app: jianping-shu-next-js-app
-  app.kubernetes.io/instance: jianping-shu-next-js-app-instance
-  app.kubernetes.io/name: jianping-shu-next-js-app
+  app: tekton-squad-1-project-app
+  app.kubernetes.io/instance: tekton-squad-1-project-app-instance
+  app.kubernetes.io/name: tekton-squad-1-project-app
 images:
 - name: quay.io/upslope/express-sample-app
   newName: quay.io/jian_ping_shu/next_js
-  newTag: 0dfae57a39b29cb61eee4b484c470cc13725f20e
+  newTag: 5916845210f0b838403d574d85d419bb8a3177a3
