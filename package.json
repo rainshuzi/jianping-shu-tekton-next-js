@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "echo fdfadfafadfdfadfadfajianping shu test passed"
+    "test": "echo fdfadfaf====adfdfadfadfajianping shu test passed"
   },
   "dependencies": {
     "next": "11.1.2",
